@@ -6,7 +6,7 @@
 
 ## Current projects
 - Focus on learning React, Angular and Database.
-- Python and PHP and comming.
+- Python and PHP coming soon.
 
 <br>
 
