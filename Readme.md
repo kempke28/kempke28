@@ -1,15 +1,13 @@
 # Wazzaaap!
 
 ## - I, Andres Kempke - A Full-stack developer that like to be always learning, and I have a science background which I really enjoy. My main goal at the moment is to catch up with the most used technologies and make some ideas into reality. I feel like when getting your first SNES, and want play all the games and then comes the N64 in christmas... just like that. And I have a good bunch of Hobbies, too.    (☞ﾟ∀ﾟ)☞
-___
-<br>
+
 <br>
 
 ## Current projects
 - Focus on learning React, Angular and Database.
 - Python and PHP and comming.
-___
-<br>
+
 <br>
 
 ## Lenguages and tech ᕙ(⇀‸↼‶)ᕗ
@@ -34,8 +32,6 @@ ___
 	<img title="AWS" alt="AWS" src="./icons/AWS.svg" width="60" height="80" />
 </p>
 
-____
-<br>
 <br>
 
 ## Hobbies
@@ -57,16 +53,14 @@ ____
     console.log(myHobbies)
 
 ```
-____
-<br>
+
 <br>
 
 ## Some links
 
 <a href="https://www.linkedin.com/in/webdev-andreskempke/">Linkedin</a><br>
 <a href="https://andykempke.tech/">My website</a>
- ____
-<br>
+
 <br>
 
 # “Your drill is the drill that will pierce the Heavens!” - (°ロ°)☝
